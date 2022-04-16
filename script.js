@@ -412,7 +412,7 @@ function getData() {
           </li>
           <li>
            <p>
-            <strong>Mrs.M.MANICKA PRABHA</strong>
+            <strong>Mrs.M.MANICKA PRABHA,M.E.,</strong>
             <br> Assistant Professor
            </p>
           </li>
