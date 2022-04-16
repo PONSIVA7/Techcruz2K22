@@ -438,7 +438,7 @@ function getData() {
           </li>
           <li>
             <p>
-              <b>S.KARTHIKA</b>(Joint Treasurer)</p>
+              <b>R.KARTHIKA</b>(Joint Treasurer)</p>
           </li>
         </ul>
     </div>
