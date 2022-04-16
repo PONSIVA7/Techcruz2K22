@@ -465,7 +465,7 @@ function getData() {
     </div>
     <div>
       <i class="fa fa-phone"></i>
-      <p>(+91) 6382685549 (M.SELVA)</p>
+      <p>(+91) 6382685549 (M.NAMBIRAJAN)</p>
     </div>
     <div>
       <i class="fa fa-envelope"></i>
