@@ -426,19 +426,19 @@ function getData() {
             <p><b>P.PONSIVA</b> (Joint Secretary)</p>
           </li>
           <li>
-            <p><b>M.SELVA</b>(Joint Secretary)</p>
+            <p><b>M.NAMBIRAJAN</b>(Joint Secretary)</p>
           </li>
           <li>
             <p><b>M.KOKILA</b>(Treasurer)</p>
           </li>
           <li>
             <p>
-              <b>RUBASREE</b>(Joint Treasurer)
+              <b>M.BHUVANESHWARI</b>(Joint Treasurer)
             </p>
           </li>
           <li>
             <p>
-              <b>JACKSON</b>(Joint Treasurer)</p>
+              <b>S.KARTHIKA</b>(Joint Treasurer)</p>
           </li>
         </ul>
     </div>
