@@ -392,7 +392,7 @@ function getData() {
         <ul class="convener">
           
           <li>
-            <p><strong>Ms.S.PORPETCHI</strong>
+            <p><strong>Ms.S.PORPETCHI,M.E.,</strong>
               <br>  Assistant Professor
             </p>
             
