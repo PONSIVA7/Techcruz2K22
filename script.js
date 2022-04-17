@@ -299,6 +299,7 @@ function getData() {
               Totally there are 3 rounds.
               </p>
               <p>Cash prize will be awarded for winner.</p>
+              <p> Prize ₹500/- </p>
             </div>
           </div>
         </div>
