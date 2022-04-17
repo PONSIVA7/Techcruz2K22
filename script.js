@@ -278,7 +278,7 @@ function getData() {
             </h2>
             <div class="event-text">
               <p>Send your photos in instagram link given below.(Moblie Photography)</p>
-                <p>Short film must have atleast 5 mins of duration.</p>    
+                    
         <p><a class="insta" href="https://instagram.com/mr_jadu_bhoii?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fab fa-instagram insta"></i> Instagram</a> <span id="arrow"><< </span></p>
             </div>
           </div>
