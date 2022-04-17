@@ -170,7 +170,7 @@ function getData() {
   </div>
   <div class="card three">
     <div class="card_title title-white">
-    <h2>Symposium + Game/h2>
+    <h2>Symposium + Game</h2>
     <h3>Registration Fee: <br> <span id="title1">&#8377;250 /- </span>only</h3>
     </div>
   </div>
