@@ -112,6 +112,7 @@ function getData() {
           <div class="animate-div">
             <h4>JP COLLEGE OF ENGINEERING</h4>
             <h2>TECHCRUZ 2K22</h2>
+            <h2>2nd May, 2022</h2>
             <div class="btn">
               <a href="web 09.jpg" target="_blank">
                 <span></span>
