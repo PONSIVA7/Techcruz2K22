@@ -193,7 +193,7 @@ function getData() {
               <p>
                 Prove yourself to this technical world.
               </p>
-              <h4> MCQ test (Online).</h4>
+              <h4> MCQ test (Offline).</h4>
             </div>
           </div>
         </div>
