@@ -56,7 +56,7 @@ function getData() {
     <div class="wrapper" id="home">
       <div class="main-content">
         <div class="hero">
-          <img
+          /*<img
             class="circle circle1"
             alt="1"
             src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-red-semi-5aec49dbe5d420f928cece7001b96267ee17a9d3577374b68b4fba47c547bd75.svg"
@@ -105,7 +105,7 @@ function getData() {
             class="circle circle0"
             alt="10"
             src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-blue-50996d0762fb6d9ee13d6a52404dd01327fc542cc729777d532c9b633103c835.svg"
-          />
+          />*/
           <h1>CSE</h1>
         </div>
         <div class="main-text">
