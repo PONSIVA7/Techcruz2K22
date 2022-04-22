@@ -160,7 +160,7 @@ function getData() {
               <p>
                 Recent topics in all engineering fields can be presented.
               </p>
-              <p>Last Date for Paper Submission Apr 27,2022.</p>
+              <p>Last Date for Paper Submission Apr 28,2022.</p>
             </div>
           </div>
         </div>
