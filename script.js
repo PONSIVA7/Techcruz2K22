@@ -63,7 +63,7 @@ function getData() {
           <div class="animate-div">
             <h4>JP COLLEGE OF ENGINEERING</h4>
             <h2>TECHCRUZ 2K22</h2>
-            <h2>2nd May, 2022</h2>
+            <h2>4TH May, 2022</h2>
             <div class="btn">
               <a href="web 09.jpg" target="_blank">
                 <span></span>
@@ -461,7 +461,7 @@ function getData() {
       }
     });
   
-    var deadline = new Date("may 02, 2022 9:0:0").getTime();
+    var deadline = new Date("may 04, 2022 9:0:0").getTime();
   
     var x = setInterval(function() {
       var now = new Date().getTime();
