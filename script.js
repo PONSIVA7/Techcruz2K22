@@ -271,7 +271,7 @@ function getData() {
           designed for everyone. This year, TECHCRUZ2K22 sets out to champion
           the maniacs and misfits that refused the routine and achieved
           breakthroughs. With a digital environment filled with energetic
-          individuals, the TECHCRUZ2K22 on 2<sup>nd</sup> of May aims to accelerate
+          individuals, the TECHCRUZ2K22 on 4<sup>th</sup> of May aims to accelerate
           these ideas through the stratosphere. Because we know that great
           ideas are hard to come by!</i>
         </p>
