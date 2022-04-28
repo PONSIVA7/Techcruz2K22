@@ -65,7 +65,7 @@ function getData() {
             <h2>TECHCRUZ 2K22</h2>
             <h2>4th May, 2022</h2>
             <div class="btn">
-              <a href="web 09.jpg" target="_blank">
+              <a href="revised poster-1.jpg" target="_blank">
                 <span></span>
                 <span></span>
                 <span></span>
